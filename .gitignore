@@ -1,0 +1,19 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# Debugging
+*.dSYM/
+
+# Build directories
+build/
+bin/
+
+# Core dumps
+core
+core.*
+
+# Editor / OS
+.vscode/
+.idea/
