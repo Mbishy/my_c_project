@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/engineer/pro_c",
+    "command": "gcc -std=c11 -Wall -Wextra -Werror -g -c main.c -o main.o",
+    "file": "/home/engineer/pro_c/main.c"
+  }
+]
